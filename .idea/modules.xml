@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyJava.iml" filepath="$PROJECT_DIR$/.idea/MyJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJava/micrometer-registry-dolphindb/micrometer-registry-dolphindb.iml" filepath="$PROJECT_DIR$/MyJava/micrometer-registry-dolphindb/micrometer-registry-dolphindb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJava/test_mm/untitled.iml" filepath="$PROJECT_DIR$/MyJava/test_mm/untitled.iml" />
+    </modules>
+  </component>
+</project>
